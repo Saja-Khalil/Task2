@@ -1,4 +1,4 @@
-# Task2
+# Veloura Landing Page
 # Veloura
 
 ## About the Project
